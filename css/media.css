@@ -1,0 +1,75 @@
+@media(min-width:0px) and (max-width:767px){
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+        margin: 3px 0px 9px;
+    }
+    .feature-content {
+        margin-bottom: 30px;
+    }
+    
+}
+@media(min-width:0px) and (max-width:575px){
+    .phone {
+        display: none;
+    }
+    .header-content {
+        text-align: center;
+        padding: 50px;
+    }
+    .price{
+        margin-bottom: 25px;
+        margin-left: 19px;
+    }
+    .lol {
+        list-style: none;
+        margin-left: 23%;
+    }
+    .testimonial p {
+        font-size: 19px;
+    }
+    .like-what-you-see h1 {
+        font-weight: 30;
+        font-size: 57px;
+    }
+
+    .btn-features{
+        margin-left: 80px ;
+    }
+    .like-what-you-see h1 {
+        font-size: 30px;
+    }
+    .contact-form form input[type='submit'] {
+        padding: 10px 50px;
+    }
+        .contact-form{
+            width: 300px;
+        }
+        .heading h1 {
+            font-size: 50px;
+        }
+}
+
+@media(min-width:0px) and (max-width:425px){
+    .client-img {
+        width: 40%;
+    }
+}
+@media(min-width:0px) and (max-width:418px) {
+    .btn-features {
+        margin-left: 20px;
+        margin-bottom: 21px;
+    }
+    .btn-download {
+        margin-left: 20px;
+        margin-bottom: 22px;
+    }
+    .contact-form form input {
+        
+        padding: 0px;
+    }
+    
+
+}
